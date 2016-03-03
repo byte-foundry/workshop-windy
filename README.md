@@ -1,11 +1,11 @@
-# Workshop Plumin
+# Workshop Windy
 
-Make fonts with [pluminJS](http://www.pluminjs.com/) + [Yahoo weather API](https://developer.yahoo.com/weather/)
+Let the wind distord your fonts.
 
 ## Installation
 
 1. Install [Node with nvm](https://github.com/creationix/nvm)
-2. Clone this repository `git clone git@github.com:byte-foundry/workshop-plumin.git`
+2. Clone this repository `git clone git@github.com:byte-foundry/workshop-windy.git`
 3. Install dependencies `npm install`
 
 ## Playing With the Demo
