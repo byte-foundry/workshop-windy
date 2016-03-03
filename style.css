@@ -1,0 +1,12 @@
+.location {
+	width: 100%;
+
+	font-size: 100px;
+	font-family: 'Infini';
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.wind {
+	font-family: 'Infini-wind';
+}
